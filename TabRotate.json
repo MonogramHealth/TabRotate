@@ -1,24 +1,84 @@
 {
-  "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
+  "settingsReloadIntervalMinutes": 5,
+  "fullscreen": true,
   "autoStart": false,
   "lazyLoadTabs": false,
-  "closeExistingTabs": false,
+  "closeExistingTabs": true,
   "websites": [
-    {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+       {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000v338EAA/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
     },
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000jSapEAE/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
-    }
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000v34GEAQ/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000jSauEAE/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000v34LEAQ/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000jSazEAE/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000v34VEAQ/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+      {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000jSb4EAE/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000v34pEAA/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000v34uEAA/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000v34aEAA/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000v34fEAA/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000v34kEAA/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/01Z4y000000jSRnEAM/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+    },
+    {
+      "url": "https://monogramhealthcare.lightning.force.com/lightning/r/Dashboard/00O4y000005DydxEAC/view?queryScope=userFolders&chromeless=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 840
+      }                                                
   ]
 }
